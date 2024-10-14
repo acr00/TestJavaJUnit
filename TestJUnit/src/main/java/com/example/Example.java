@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 public class Example {
 
-    // 1. Método para sumar dos números
+    // 1. Método para sumar dos números.
 
     public int sumar(int a, int b) {
         
